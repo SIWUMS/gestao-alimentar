@@ -32,14 +32,14 @@ SLACK_WEBHOOK=SEU_WEBHOOK_SLACK (opcional)
 
 ### 📊 Status
 
-[![Deploy](https://github.com/SIWUMS/gestao-alimentar/workflows/Deploy%20para%20VPS/badge.svg)](https://github.com/SEU_USUARIO/gestao-alimentar/actions)
-[![Security](https://github.com/SIWUMS/gestao-alimentar/workflows/Verificações%20de%20Segurança/badge.svg)](https://github.com/SEU_USUARIO/gestao-alimentar/actions)
+[![Deploy](https://github.com/SIWUMS/gestao-alimentar/workflows/Deploy%20para%20VPS/badge.svg)](https://github.com/SIWUMS/gestao-alimentar/actions)
+[![Security](https://github.com/SIWUMS/gestao-alimentar/workflows/Verificações%20de%20Segurança/badge.svg)](https://github.com/SIWUMS/gestao-alimentar/actions)
 
 ## 🛠️ Desenvolvimento Local
 
 \`\`\`bash
 # Clonar repositório
-git clone https://github.com/SEU_USUARIO/gestao-alimentar.git
+git clone https://github.com/SIWUMS/gestao-alimentar.git
 cd gestao-alimentar
 
 # Instalar dependências
@@ -151,7 +151,7 @@ echo "   • NÃO inicialize com README"
 echo ""
 
 echo "2️⃣ Conectar repositório local:"
-echo "   git remote add origin https://github.com/SEU_USUARIO/gestao-alimentar.git"
+echo "   git remote add origin https://github.com/SIWUMS/gestao-alimentar.git"
 echo "   git push -u origin main"
 echo ""
 
