@@ -32,8 +32,8 @@ SLACK_WEBHOOK=SEU_WEBHOOK_SLACK (opcional)
 
 ### 📊 Status
 
-[![Deploy](https://github.com/SEU_USUARIO/gestao-alimentar/workflows/Deploy%20para%20VPS/badge.svg)](https://github.com/SEU_USUARIO/gestao-alimentar/actions)
-[![Security](https://github.com/SEU_USUARIO/gestao-alimentar/workflows/Verificações%20de%20Segurança/badge.svg)](https://github.com/SEU_USUARIO/gestao-alimentar/actions)
+[![Deploy](https://github.com/SIWUMS/gestao-alimentar/workflows/Deploy%20para%20VPS/badge.svg)](https://github.com/SEU_USUARIO/gestao-alimentar/actions)
+[![Security](https://github.com/SIWUMS/gestao-alimentar/workflows/Verificações%20de%20Segurança/badge.svg)](https://github.com/SEU_USUARIO/gestao-alimentar/actions)
 
 ## 🛠️ Desenvolvimento Local
 
